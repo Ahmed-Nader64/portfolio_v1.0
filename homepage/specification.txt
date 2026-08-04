@@ -1,0 +1,24 @@
+HTML Tags Used
+1. <html> — Defines the overall HTML document.
+2. <head> — Contains page metadata, stylesheets, scripts, and the title.
+3. <body> — Contains the visible content of the website.
+4. <main> — Groups the main content of the portfolio page.
+5. <header> — Contains the website navigation/header area.
+6. <ul> — Creates the navigation list.
+7. <li> — Defines each navigation item.
+8. <a> — Creates navigation, project, and social-media links.
+9. <div> — Organizes the page into sections and layout containers.
+10. <img> — Displays project, profile, and social-media images.
+
+CSS Properties Used
+1. display — Controls how elements are laid out, including Flexbox layouts.
+2. width — Controls the horizontal size of sections, images, buttons, and containers.
+3. padding — Adds internal spacing around content.
+4. background-color — Sets backgrounds for the page, buttons, and other elements.
+5. font-family — Sets the typography used throughout the website.
+
+JavaScript
+JavaScript is included through main.js to add interactivity to the website; the exact behavior depends on the JavaScript written in that file.
+
+Bootstrap
+Bootstrap is used to provide ready-made responsive layout utilities, navigation styling, buttons, and other UI classes, reducing the amount of custom CSS needed.
